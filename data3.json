@@ -1,0 +1,34 @@
+[
+	{
+		"fr": "la fille est en france",
+		"en": "the girl is in france"
+	},
+	{
+		"fr": "paris est une ville en france",
+		"en": "paris is a city in france"
+	},
+	{
+		"fr": "la fille est belle",
+		"en": "the girl is beautiful"
+	},
+	{
+		"fr": "paris est une belle ville",
+		"en": "paris is a beautiful city"
+	},
+	{
+		"fr": "la fille est a la eglise",
+		"en": "the girl is in church"
+	},
+	{
+		"fr": "une eglise est en paris",
+		"en": "a church is in paris"
+	},
+	{
+		"fr": "la eglise est belle",
+		"en": "the church is beautiful"
+	},
+	{
+		"fr": "la france a une belle eglise",
+		"en": "france has a beautiful church"
+	}
+]
